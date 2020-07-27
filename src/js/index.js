@@ -15,7 +15,6 @@
 //*15 create moveBall function adds wall, paddle, and brick collision
 //*16 create increaseScore and showAllBricks function
 //*17 add lose functionality
-//*18
 
 const rulesBtn = document.getElementById('rules-btn');
 const closeBtn = document.getElementById('close-btn');
