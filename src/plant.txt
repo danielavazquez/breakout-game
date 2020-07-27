@@ -1,0 +1,12 @@
+1. Create canvas cobtext (bringing it in, setting a variable, create and draw our ball)
+2. Create and draw ball  (create an object with many properties: color, shape, position, X Y axis location, draw creates the path)
+3. Create and draw paddle (create with properties and draw on canvas)
+4. Create bricks (create and array within an array have rows of columns of bricks, for each loop etc..., each brick will have visible property)
+5. Draw score 
+6. Add update() - Animate - requestAnimationFrame(cb) redraw canvas  and takes in a callback, keep repaingting the canvas with different things in different positions
+7. Move paddle 
+8. Keyboard event handlers to move paddle 
+9. Move ball 
+10. Add wall boundaries
+11. Increase score when bricks break
+12. Lose - redraw bricks, reset score
