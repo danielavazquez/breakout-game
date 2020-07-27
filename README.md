@@ -14,11 +14,11 @@ Via npm
 
 ## Project Specifications
 
--Draw elements on canvas
--Use canvas paths to draw shapes
--Add animation with requestAnimationFrame(cb)
--Move paddle on arrow key press
--Add collision detection
--Keep score
--Add rules button with slider
+-Draw elements on canvas <br />
+-Use canvas paths to draw shapes <br />
+-Add animation with requestAnimationFrame(cb) <br />
+-Move paddle on arrow key press <br />
+-Add collision detection <br />
+-Keep score <br />
+-Add rules button with slider <br />
 
